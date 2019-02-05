@@ -19,5 +19,15 @@
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
 
+	<hr>
+
+	<ul>
+		<li>Lorem</li>
+		<li>ipsum</li>
+		<li>dolor sit</li>
+		<li>amet</li>
+	</ul>
+
+
 </body>
 </html>
